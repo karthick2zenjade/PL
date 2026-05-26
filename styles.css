@@ -176,7 +176,7 @@
         .hidden { display: none; }
     
 .detail-item{
-    min-height:50px !important;
+    min-height:40px !important;
     width:150px;
     display:flex !important;
     flex-direction:column !important;
